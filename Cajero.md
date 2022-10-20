@@ -53,3 +53,6 @@ Diseño de la interfaz
 +-----------------------------------------------------------+
 
 Etapa 3: Diseño de la solucion
+
+
+![](https://github.com/EmmanuelNiro/T3A5/blob/main/Cajero.png)
